@@ -9,7 +9,7 @@ A WebAR experience to enjoy with your phone.
 2. When the webpage appears, allow the use of your camera.
 3. Point your camera to the QR code again, a "hole in the wall" should appear with someone talking to you at the other side.
 
-_Note: the eperience is best if you print the QR code and stick it to an actual wall!_
+_Note: the experience is best if you print the QR code and stick it to an actual wall!_
 
 ![qr code](https://github.com/yannklein/hole-in-the-wall-v1/blob/master/marker/marker_ht.png?raw=true)
 
